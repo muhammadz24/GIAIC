@@ -5,7 +5,7 @@ st.set_page_config(page_title="Password Strength Meter", page_icon="🔒")
 
 st.title("🔐Password Strength Meter")
 st.markdown("""
- ## Welcome to ultimate Password Strength Meter!👋
+ ## Welcome To Ultimate Password Strength Meter!👋
 use this simple tool to check the strength of your password and make it strong and secure!💪
 we will give you helpful tips to create a *Strong Password**""")
 
